@@ -1,3 +1,3 @@
 # FirstDemo
 This is my first git  repository
-Author - Sneha
+Author - Sneha (First Project)
